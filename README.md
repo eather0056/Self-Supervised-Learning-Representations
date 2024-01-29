@@ -1,12 +1,6 @@
-# Self-Supervised-Learning-Representations
-
-
-Certainly! Here's a sample README file for your GitHub repository "Self-Supervised-Learning-Representations" where you can showcase your code and detailed implementation of various embeddings for word, sentence, image, and speech:
-
-```markdown
 # Self-Supervised Learning Representations
 
-This repository contains the implementation of various self-supervised learning techniques for generating representations across different modalities, including word embeddings, sentence embeddings using BERT, image embeddings using DINO, and speech embeddings using HuBERT. This project was carried out as part of the coursework at the University of Toulon under the guidance of Professor Santiago.
+This repository contains the implementation of various self-supervised learning techniques for generating representations across different modalities, including word embeddings, sentence embeddings using BERT, image embeddings using DINO, and speech embeddings using HuBERT. This project was carried out as part of the coursework at the University of Toulon under the guidance of Santiago.
 
 ## Table of Contents
 
@@ -28,7 +22,7 @@ Self-supervised learning has gained significant importance in recent years for g
 
 Make sure you have the following dependencies installed:
 
-- Python 3.x
+- Python 3.0
 - PyTorch
 - Transformers (for BERT)
 - DINO (for image embeddings)
@@ -72,6 +66,6 @@ Contributions to this repository are welcome! If you have any improvements or ad
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
-Please make sure to replace `[describe the method you implemented here]`, `[yourusername]`, and other placeholders with the actual information related to your implementation. Additionally, create separate README.md files in respective subdirectories (e.g., `word_embeddings`, `sentence_embeddings`, `image_embeddings`, and `speech_embeddings`) to provide detailed instructions for each module.
+
+
