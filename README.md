@@ -39,7 +39,7 @@ pip install -r requirements.txt
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/Self-Supervised-Learning-Representations.git
+git clone https://github.com/eather0056/Self-Supervised-Learning-Representations.git
 cd Self-Supervised-Learning-Representations
 ```
 
