@@ -46,13 +46,13 @@ cd Self-Supervised-Learning-Representations
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/your_colab_link_here)
 
 ### Sentence Embeddings.ipynb
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/your_colab_link_here)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1kC38Nbs8qJb6yOtN2N_vWt00DvIbO_eG/view?usp=sharing)
 
 ### Speech embeddings.ipynb
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/your_colab_link_here)
 
 ### Word embeddings.ipynb
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/your_colab_link_here)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZYgr2eBvc-syTI1krptbGTUC_sWScp02)
 
 ## Word Embeddings
 
