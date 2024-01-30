@@ -42,6 +42,17 @@ Clone the repository to your local machine:
 git clone https://github.com/eather0056/Self-Supervised-Learning-Representations.git
 cd Self-Supervised-Learning-Representations
 ```
+### Image embeddings.ipynb
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/your_colab_link_here)
+
+### Sentence Embeddings.ipynb
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/your_colab_link_here)
+
+### Speech embeddings.ipynb
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/your_colab_link_here)
+
+### Word embeddings.ipynb
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/your_colab_link_here)
 
 ## Word Embeddings
 
