@@ -43,25 +43,26 @@ git clone https://github.com/eather0056/Self-Supervised-Learning-Representations
 cd Self-Supervised-Learning-Representations
 ```
 
-## Word Embeddings
-
-For word embeddings, we use [describe the method you implemented here]. To generate word embeddings, follow the steps in the [Word Embeddings](./word_embeddings/README.md) section.
+## Word Embeddings 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZYgr2eBvc-syTI1krptbGTUC_sWScp02)
 
-## Sentence Embeddings (BERT)
+For word embeddings, we use [describe the method you implemented here]. To generate word embeddings, follow the steps in the [Word Embeddings](./word_embeddings/README.md) section.
 
-We leverage BERT for sentence embeddings. Detailed instructions for generating sentence embeddings can be found in the [Sentence Embeddings (BERT)](./sentence_embeddings/README.md) section.
+
+## Sentence Embeddings (BERT)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fqvmE41ZZgB4ndxrAvsrOKLcfLPPM18F)
 
-## Image Embeddings (DINO)
+We leverage BERT for sentence embeddings. Detailed instructions for generating sentence embeddings can be found in the [Sentence Embeddings (BERT)](./sentence_embeddings/README.md) section.
 
-Our image embeddings are based on DINO. To generate image embeddings, refer to the [Image Embeddings (DINO)](./image_embeddings/README.md) section for instructions.
+## Image Embeddings (DINO)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kC38Nbs8qJb6yOtN2N_vWt00DvIbO_eG)
 
+Our image embeddings are based on DINO. To generate image embeddings, refer to the [Image Embeddings (DINO)](./image_embeddings/README.md) section for instructions.
+
 ## Speech Embeddings (HuBERT)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L1dkOObQuvt29Yu1sf2MOG_nHTxrj2DT)
 
 For speech embeddings, we employ HuBERT. To generate speech embeddings, please check the [Speech Embeddings (HuBERT)](./speech_embeddings/README.md) section for guidance.
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L1dkOObQuvt29Yu1sf2MOG_nHTxrj2DT)
 
 ## Contributing
 
